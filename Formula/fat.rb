@@ -5,6 +5,6 @@ class Fat < Formula
     url "https://github.com/jancschaefer/fat/archive/master.zip", :using => :curl
     
     def install
-    bin.install "jancschaefer/fat"
+        prefix.install "fat.sh"
     end
-    end
+end
