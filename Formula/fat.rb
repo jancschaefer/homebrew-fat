@@ -1,8 +1,8 @@
 class Fat < Formula
     desc "Commandline utility that searches full text in the current path and offers a preview."
     homepage "https://github.com/jancschaefer/fat"
-    url "https://github.com/jancschaefer/fat/archive/0.0.4.zip"
-    sha256 "16f9c6132758b23fda0e5327f3eb5e48e77472bbdb8330cb50a8449c87c1ba0a"
+    url "https://github.com/jancschaefer/fat/archive/0.0.5.zip"
+    sha256 "328a90fbc50b917144684240431ffa6a374426383551761a88226db57655490d"
     
     depends_on "bat"
     depends_on "fzf"
